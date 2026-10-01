@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mahrajarabia.cherry-degu-2782.chatgpt.site/sitemap.xml
+Sitemap: https://mahrajarabia.aqibshabbirde.chatgpt.site/sitemap.xml
